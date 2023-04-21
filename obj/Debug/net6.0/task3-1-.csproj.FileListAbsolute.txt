@@ -1,0 +1,15 @@
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/bin/Debug/net6.0/task3-1-
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/bin/Debug/net6.0/task3-1-.deps.json
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/bin/Debug/net6.0/task3-1-.runtimeconfig.json
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/bin/Debug/net6.0/task3-1-.dll
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/bin/Debug/net6.0/task3-1-.pdb
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/obj/Debug/net6.0/task3-1-.csproj.AssemblyReference.cache
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/obj/Debug/net6.0/task3-1-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/obj/Debug/net6.0/task3-1-.AssemblyInfoInputs.cache
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/obj/Debug/net6.0/task3-1-.AssemblyInfo.cs
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/obj/Debug/net6.0/task3-1-.csproj.CoreCompileInputs.cache
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/obj/Debug/net6.0/task3-1-.dll
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/obj/Debug/net6.0/refint/task3-1-.dll
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/obj/Debug/net6.0/task3-1-.pdb
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/obj/Debug/net6.0/task3-1-.genruntimeconfig.cache
+/Users/tatanahadzaeva/Desktop/task3(10/task3-1-/obj/Debug/net6.0/ref/task3-1-.dll
